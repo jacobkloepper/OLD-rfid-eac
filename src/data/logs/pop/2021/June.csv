@@ -1,0 +1,12 @@
+NO,FIRST,LAST,DATE,TIME,STALE?
+1,JT,Miller,28,15:42:38,TRUE
+2,Nils,Hoglander,28,15:42:39,TRUE
+3,Kevin,Bieksa,28,15:42:40,TRUE
+4,Bo,Horvat,28,15:42:42,TRUE
+5,Daniel,Sedin,28,15:42:44,TRUE
+6,Alex,Burrows,28,15:42:45,TRUE
+7,Henrik,Sedin,28,15:42:50,TRUE
+8,Kevin,Bieksa,29,11:6:22,False
+9,JT,Miller,29,11:6:26,False
+10,Kevin,Bieksa,30,13:13:46,False
+11,JT,Miller,30,13:13:48,False

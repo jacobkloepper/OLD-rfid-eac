@@ -1,0 +1,15 @@
+NO,FIRST,LAST,TIME,DIRECTION,LOCATION
+1,Nils,Hoglander,14:5:57,enter,main
+2,Bo,Horvat,14:5:59,enter,main
+3,Kevin,Bieksa,14:6:0,enter,main
+4,JT,Miller,14:6:2,enter,main
+5,Daniel,Sedin,14:6:5,enter,main
+6,Alex,Burrows,14:6:8,enter,main
+7,Henrik,Sedin,14:6:13,enter,main
+8,Bo,Horvat,14:8:18,exit,staircase
+9,Kevin,Bieksa,14:8:22,exit,staircase
+10,Nils,Hoglander,14:8:23,exit,staircase
+11,JT,Miller,14:8:25,exit,staircase
+12,Alex,Burrows,14:8:27,exit,staircase
+13,Daniel,Sedin,14:8:28,exit,staircase
+14,Henrik,Sedin,14:8:31,exit,staircase
